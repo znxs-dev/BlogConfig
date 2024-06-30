@@ -6,8 +6,8 @@ tags:
   - npm
   - memory
 categories:
-cover: https://ts4.cn.mm.bing.net/th?id=ODLS.11812f16-ec58-43ff-958e-73c00d7321b8&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2
-top_img: https://ts4.cn.mm.bing.net/th?id=ODLS.11812f16-ec58-43ff-958e-73c00d7321b8&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2
+cover: https://img.znxs.vip/study/npm_logo.png
+top_img: https://img.znxs.vip/study/npm_logo.png
 ---
 
 ### npm的一些使用

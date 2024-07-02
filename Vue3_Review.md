@@ -1,13 +1,13 @@
 ---
 title: Vue3_Review
-date: 2023-06-30 21:34:49
+date: 2024-06-30 21:34:49
 description: vue3的复习，主打的就是一个快速上手
 tags:
   - vue
   - 复习
 categories:
 cover: https://img.znxs.vip/program/IT-Logo/Vue.png
-top_img: https://img.znxs.vip/program/IT-Logo/Vue.png
+top_img: https://img.znxs.vip/program/IT-Logo/vue_bg.jpg
 ---
 
 # Vue3快速上手

@@ -24,7 +24,7 @@ top_img: https://img.znxs.vip/znxs/1059288.png
 
 我自己说的一个月的时间很多，能干很多事，但是感觉还是有点紧，时间不是很够，只能说尽力，这个任务还不算很多，因为还没算其他底层的东西，每日练习也要做，每日书籍也要看，感觉每日的娱乐时间就只有一两个小时了，无所谓了，对于我来说，已经很充足了。
 
-![1024](https://dl4.weshineapp.com/gif/20161024/7c3d4104549b19d4ab5ae173b403d580.gif?f=micro_56iL5bqP5ZGY)
+![1024](https://img.znxs.vip/study/7c3d4104549b19d4ab5ae173b403d580.gif)
 
 
 

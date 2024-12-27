@@ -74,7 +74,9 @@ top_img: https://img.tukuppt.com/png_preview/00/02/31/sn7R13Trcj.jpg!/fw/780
 
   可以去看看
 
-  ![一大会址](https://pic.quanjing.com/9d/2s/QJ9126833364.jpg)
+  ![20240711yidahuizhi](https://img.znxs.vip/study/20240711yidahuizhi.png)
+
+  
 
   
 
@@ -82,8 +84,10 @@ top_img: https://img.tukuppt.com/png_preview/00/02/31/sn7R13Trcj.jpg!/fw/780
 
   老上海Temple 🛕
 
-  ![城隍庙](https://img.zcool.cn/community/01fcfc58492cc1a8012060c8776b3f.JPG@1280w_1l_2o_100sh.jpg)
+  ![image-20241227101921195](https://img.znxs.vip/study/image-20241227101921195.png)
 
+  ![image-20241227101958401](https://img.znxs.vip/study/image-20241227101958401.png)
+  
   
 
 ### Day2 BW展

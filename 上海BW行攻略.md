@@ -6,13 +6,13 @@ tags:
   - 上海
   - bw
 categories:
-cover: https://img.tukuppt.com/png_preview/00/02/31/sn7R13Trcj.jpg!/fw/780
-top_img: https://img.tukuppt.com/png_preview/00/02/31/sn7R13Trcj.jpg!/fw/780
+cover: https://img.znxs.vip/study/780
+top_img: https://img.znxs.vip/study/780
 ---
 
 这是关于上海的旅游攻略，是去bw顺便做的
 
-![上海上海|插画|商业插画|超人航 - 原创作品 - 站酷 (ZCOOL)](https://img.zcool.cn/community/01a8345a156731a80120518792c0d1.jpg@1280w_1l_2o_100sh.jpg)
+![上海上海](https://img.zcool.cn/community/01a8345a156731a80120518792c0d1.jpg?imageMogr2/auto-orient/thumbnail/1280x%3e/sharpen/0.5/quality/100/format/webp)
 
 
 
@@ -24,7 +24,7 @@ top_img: https://img.tukuppt.com/png_preview/00/02/31/sn7R13Trcj.jpg!/fw/780
 
   淮海中路是这么长的一条路，有不少老上海建筑在里面
 
-  [![淮海中路](https://img.znxs.vip/view/travel_%E6%B7%AE%E6%B5%B7%E4%B8%9C%E8%B7%AF.png)](https://img.znxs.vip/view/travel_淮海东路.png)
+  ![淮海中路](https://img.znxs.vip/view/travel_%E6%B7%AE%E6%B5%B7%E4%B8%AD%E8%B7%AF.png)
 
   淮海中路
 
@@ -74,7 +74,7 @@ top_img: https://img.tukuppt.com/png_preview/00/02/31/sn7R13Trcj.jpg!/fw/780
 
   可以去看看
 
-  ![20240711yidahuizhi](https://img.znxs.vip/study/20240711yidahuizhi.png)
+  ![一大会址](https://img.znxs.vip/study/20240711yidahuizhi.png)
 
   
 
@@ -82,11 +82,11 @@ top_img: https://img.tukuppt.com/png_preview/00/02/31/sn7R13Trcj.jpg!/fw/780
 
 - #### 城隍庙🌃
 
-  老上海Temple 🛕
+  老上海🛕
 
-  ![image-20241227101921195](https://img.znxs.vip/study/image-20241227101921195.png)
+  ![上海老饭店](https://img.znxs.vip/study/image-20241227101921195.png)
 
-  ![image-20241227101958401](https://img.znxs.vip/study/image-20241227101958401.png)
+  ![老庙黄金银楼](https://img.znxs.vip/study/image-20241227101958401.png)
   
   
 

@@ -34,11 +34,9 @@ top_img: https://img.znxs.vip/znxs/1059288.png
 
 🌈最后希望我的生活丰富多彩🌈
 
-> *Life Is Myself*
+> ***Life Is Myself***
 
-![【白日梦想家】](https://img.zcool.cn/community/01a8da5e0ed4caa801216518c06288.jpg@1280w_1l_2o_100sh.jpg)
-
-
+![白日梦想家](https://img.znxs.vip/study/image-20241227104230353.png)
 
 > “To see the world, things dangerous to come to,
 > To see behind walls, to draw closer,

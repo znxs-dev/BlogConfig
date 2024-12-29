@@ -12,7 +12,7 @@ cover: https://visualstudio.microsoft.com/wp-content/uploads/2019/02/BrandVisual
 top_img: https://visualstudio.microsoft.com/wp-content/uploads/2019/02/BrandVisualStudioWin2019-2.svg
 ---
 
-### 方法 1: 使用 `AfxGetMainWnd()` 和消息映射
+### 使用 `AfxGetMainWnd()` 和消息映射
 
 这种方法适用于 `CResumeManagementSystemView` 是主框架窗口的一部分的情况。你可以使用 `AfxGetMainWnd()` 获取主窗口指针，然后发送消息给它。如果你的视图是从 `CView` 或 `CFormView` 派生的，可以通过主窗口找到视图并发送消息。
 
@@ -51,7 +51,7 @@ void CResumeInfoDlgAdd::OnBnClickedOk()
 }
 ```
 
-##### 在主窗口中捕获消息并转发给视图：
+##### 在另一个窗口中捕获消息并转发给视图：
 
 ```cpp
 BEGIN_MESSAGE_MAP(CMainFrame, CFrameWndEx)

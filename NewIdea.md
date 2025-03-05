@@ -6,7 +6,7 @@ tags:
   - 想法
   - 未来
 categories:
-swiper_index: 7 #置顶轮播图顺序，非负整数，数字越大越靠前
+swiper_index: 7
 swiper_desc: NewIdeas
 swiper_cover: https://img.znxs.vip/study/OIP-C.vp1nWfJWeKbpoXFuKXnEcgHaEK
 cover: https://img.znxs.vip/study/OIP-C.vp1nWfJWeKbpoXFuKXnEcgHaEK

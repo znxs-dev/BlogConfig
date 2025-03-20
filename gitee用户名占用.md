@@ -1,7 +1,7 @@
 ---
 title: 申请gitee 账户名称
 date: 2025-03-19 17:07:58
-description: 用于召唤等着我的账户名称
+description: 用于召唤等着我的账户名称.。
 tags:
   - gitee
 categories:

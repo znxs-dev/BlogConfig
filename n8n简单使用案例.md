@@ -5,11 +5,9 @@ description: 前几天看到了这个自动化程序项目，感觉很有意思�
 tags: 
   - 教程
   - n8n
-cover: https://i-blog.csdnimg.cn/direct/445a9e80b062436a9a6501339a6edccb.png
-top_img: https://i-blog.csdnimg.cn/direct/445a9e80b062436a9a6501339a6edccb.png
+cover: https://img.znxs.vip/study/202504301129812.png
+top_img: https://img.znxs.vip/study/202504301129812.png
 ---
-
-
 
 # 简单使用n8n小案例
 

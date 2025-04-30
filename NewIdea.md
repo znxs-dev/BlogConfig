@@ -8,9 +8,9 @@ tags:
 categories:
 swiper_index: 7
 swiper_desc: NewIdeas
-swiper_cover: https://img.znxs.vip/study/OIP-C.vp1nWfJWeKbpoXFuKXnEcgHaEK
-cover: https://img.znxs.vip/study/OIP-C.vp1nWfJWeKbpoXFuKXnEcgHaEK
-top_img: https://img.znxs.vip/study/OIP-C.vp1nWfJWeKbpoXFuKXnEcgHaEK
+swiper_cover: https://img.znxs.vip/study/202504301131330.jpeg
+cover: https://img.znxs.vip/study/202504301131330.jpeg
+top_img: https://img.znxs.vip/study/202504301131330.jpeg
 ---
 
 ## 一些新点子

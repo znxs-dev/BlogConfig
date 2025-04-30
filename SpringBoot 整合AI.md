@@ -6,7 +6,7 @@ tags:
   - 教程
   - 大模型
 categories:
-cover: https://img.znxs.vip/study/202504301108852.png
+cover: https://img.znxs.vip/study/202504301108692.jpg
 top_img: https://img.znxs.vip/study/202504301108692.jpg
 ---
 
@@ -258,14 +258,16 @@ This may be due to missing parameter name information
 
 > 追加，发现了原因，是因为需要通过构造器注入的时候，不知道注入哪个chatModal，导致ChatClientAutoConfiguration，注入bean的时候，发现了两个，就有了 **ChatClientAutoConfiguration required a single bean, but 2 were found**: 这个错误，这里使用ChatClient的时候，还是只选择一种就行了 即去掉另一个的依赖，下面这两个依赖二选一  （阿里支持自己模型直接调用，真是开小灶啊，别家的模型就需要另外在添加依赖）
 >
+> ![千问3](https://img.znxs.vip/study/202504301108852.png)
+>
 > ```xml
->         <!--spring ai alibaba-->
->         <dependency>
->             <groupId>com.alibaba.cloud.ai</groupId>
->             <artifactId>spring-ai-alibaba-starter</artifactId>
->             <version>1.0.0-M6.1</version>
->         </dependency>
->         <!--spring ai 接入本地ollama-->
+>      <!--spring ai alibaba-->
+>      <dependency>
+>          <groupId>com.alibaba.cloud.ai</groupId>
+>          <artifactId>spring-ai-alibaba-starter</artifactId>
+>          <version>1.0.0-M6.1</version>
+>      </dependency>
+>      <!--spring ai 接入本地ollama-->
 > <!--        <dependency>-->
 > <!--            <groupId>org.springframework.ai</groupId>-->
 > <!--            <artifactId>spring-ai-ollama-spring-boot-starter</artifactId>-->

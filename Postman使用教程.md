@@ -7,8 +7,8 @@ tags:
   - 软件测试
   - 使用教程
 categories:
-cover: https://tse4-mm.cn.bing.net/th/id/OIP-C.XS51hMJsQBuFKSKV3-xj_QHaD4?w=303&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7
-top_img: https://tse4-mm.cn.bing.net/th/id/OIP-C.XS51hMJsQBuFKSKV3-xj_QHaD4?w=303&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7
+cover: https://img.znxs.vip/study/202504301136545.jpeg
+top_img: https://img.znxs.vip/study/202504301136352.png
 ---
 
 ### 参考文献
@@ -27,7 +27,7 @@ top_img: https://tse4-mm.cn.bing.net/th/id/OIP-C.XS51hMJsQBuFKSKV3-xj_QHaD4?w=30
 http://localhost:8080/api/user/list?name=John
 ```
 
-![http请求](https://img.znxs.vip/znxs/znxsznxsimage-20230911103852935.png)
+![http请求](https://img.znxs.vip/study/znxsznxsimage-20230911103852935.png)
 
 
 
@@ -87,7 +87,7 @@ http请求由三部分组成，分别是:请求行、请求头、请求体
 
 简单演示：
 
-![get请求过程](https://img.znxs.vip/znxs/znxsznxs630eca05d7a64e3bbaefebcaf20b3a6e.png)
+![get请求过程](https://img.znxs.vip/study/znxsznxs630eca05d7a64e3bbaefebcaf20b3a6e.png)
 
 - 用户可能点击了网页的一个按钮(url)
 - 然后网页发起了http数据请求
@@ -107,7 +107,7 @@ Postman下载：https://www.postman.com/downloads/
 
 安装完成之后需要进行登录，点击create account
 
-![登录注册](https://img.znxs.vip/znxs/znxsimage-20230907080849726.png)
+![登录注册](https://img.znxs.vip/study/znxsimage-20230907080849726.png)
 
 
 
@@ -117,7 +117,7 @@ Postman下载：https://www.postman.com/downloads/
 
 进入postman页面，就是postman的首页，可以点击Workspaces进入工作区，一般都是在这里进行测试接口
 
-![工作区](https://img.znxs.vip/znxs/znxsimage-20230907092458557.png)
+![工作区](https://img.znxs.vip/study/znxsimage-20230907092458557.png)
 
 
 
@@ -127,19 +127,19 @@ Postman下载：https://www.postman.com/downloads/
 
 创建集合文件夹，用于保存项目接口，可以编写项目描述
 
-![项目文件夹](https://img.znxs.vip/znxs/znxsimage-20230907093241412.png)
+![项目文件夹](https://img.znxs.vip/study/znxsimage-20230907093241412.png)
 
 
 
 创建模块文件夹，用于保存项目具体模块接口，可以编写模块描述
 
-![模块文件夹](https://img.znxs.vip/znxs/znxsimage-20230907093411131.png)
+![模块文件夹](https://img.znxs.vip/study/znxsimage-20230907093411131.png)
 
 
 
 创建第一个接口
 
-![接口](https://img.znxs.vip/znxs/znxsimage-20230907093447603.png)
+![接口](https://img.znxs.vip/study/znxsimage-20230907093447603.png)
 
 
 
@@ -151,7 +151,7 @@ http://47.92.126.51:8080/api/list
 
 点击send发送请求得到数据
 
-![常用功能](https://img.znxs.vip/znxs/znxsimage-20230907095543646.png)
+![常用功能](https://img.znxs.vip/study/znxsimage-20230907095543646.png)
 
 
 
@@ -179,7 +179,7 @@ http://localhost:8080/api/user?name=John
 
    2. 方式二，点击Params选项卡，在表格中输入键值对自动补充至url拼接
 
-      ![查询参数请求接口](https://img.znxs.vip/znxs/znxsimage-20230907101224304.png)
+      ![查询参数请求接口](https://img.znxs.vip/study/znxsimage-20230907101224304.png)
 
       
 
@@ -203,7 +203,7 @@ http://localhost:8080/api/user?name=John
 
 4. 点击send发送请求
 
-![表单类型请求接口](https://img.znxs.vip/znxs/znxsimage-20230907113919110.png)
+![表单类型请求接口](https://img.znxs.vip/study/znxsimage-20230907113919110.png)
 
 
 
@@ -219,7 +219,7 @@ http://localhost:8080/api/user?name=John
 
 3. 选择完文件后点击send发送请求
 
-   ![上传文件请求接口](https://img.znxs.vip/znxs/znxsimage-20230907120057806.png)
+   ![上传文件请求接口](https://img.znxs.vip/study/znxsimage-20230907120057806.png)
 
    
 
@@ -253,7 +253,7 @@ json是开发过程中最常见的一种情况，即请求的请求体为json数
 
 4. 输入完成后，点击send发送请求
 
-   ![json数据请求接口](https://img.znxs.vip/znxs/znxsimage-20230907121456622.png)
+   ![json数据请求接口](https://img.znxs.vip/study/znxsimage-20230907121456622.png)
 
    
 
@@ -405,7 +405,7 @@ pm.environment.set("variable_key", "variable_value");
 
    可以看到项目的所有断言以及运行情况
 
-   ![项目运行情况](https://img.znxs.vip/znxs/znxsimage-20230911152606813.png)
+   ![项目运行情况](https://img.znxs.vip/study/znxsimage-20230911152606813.png)
 
    
 
@@ -453,13 +453,13 @@ pm.environment.set("variable_key", "variable_value");
 
 > 如果父接口登录正常，则会携带token，并且跳转至子接口1顺序执行父接口->子接口1->子接口2
 
-![请求依赖](https://img.znxs.vip/znxs/znxsimage-20230912080711574.png)
+![请求依赖](https://img.znxs.vip/study/znxsimage-20230912080711574.png)
 
 
 
 > 如果父接口登录错误，则不会带token，并且跳转至子接口2，跳过其他接口和子接口1，顺序执行父接口->子接口2
 
-![请求依赖](https://img.znxs.vip/znxs/znxsimage-20230912080510121.png)
+![请求依赖](https://img.znxs.vip/study/znxsimage-20230912080510121.png)
 
 
 

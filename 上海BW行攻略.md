@@ -6,13 +6,13 @@ tags:
   - 上海
   - bw
 categories:
-cover: https://img.znxs.vip/study/780
-top_img: https://img.znxs.vip/study/780
+cover: https://img.znxs.vip/study/20260201172653867_20260201172653774.jpg
+top_img: https://img.znxs.vip/study/20260201172653867_20260201172653774.jpg
 ---
 
 这是关于上海的旅游攻略，是去bw顺便做的
 
-![上海上海](https://img.zcool.cn/community/01a8345a156731a80120518792c0d1.jpg?imageMogr2/auto-orient/thumbnail/1280x%3e/sharpen/0.5/quality/100/format/webp)
+![上海上海](https://img.znxs.vip/study/20260201172538789_01a8345a156731a80120518792c0d1.jpg)
 
 
 
@@ -92,7 +92,7 @@ top_img: https://img.znxs.vip/study/780
 
 ### Day2 BW展
 
-![BILIBILI WORLD](https://img.znxs.vip/znxs/znxsbilibiliworld2023.webp)
+![BILIBILI WORLD](https://img.znxs.vip/study/20260201172758174_znxsbilibiliworld2023.jpg)
 
 
 
@@ -100,13 +100,13 @@ top_img: https://img.znxs.vip/study/780
 
 - #### 南京路🏙️
 
-  ![南京路步行街-来自于img.zcool.cn](https://img.zcool.cn/community/01503a5624a35f32f8755701430426.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/quality,q_100)
+  ![南京路步行街-来自于img.zcool.cn](https://img.znxs.vip/study/20260201172803418_01503a5624a35f32f8755701430426.jpg)
 
   
 
 - #### 外滩🌃
 
-  ![外滩](https://img.zcool.cn/community/01i5gdexnqtht8zfoi4vh63138.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/quality,q_100)
+  ![外滩](https://img.znxs.vip/study/20260201172808120_01i5gdexnqtht8zfoi4vh63138.jpg)
 
   
 
